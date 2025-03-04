@@ -33,7 +33,11 @@
 - **Time-Series Library**: [GitHub Repository](https://github.com/thuml/Time-Series-Library)  
 - **sktime (Time Series Machine Learning Library)**: [GitHub Repository](https://github.com/sktime/sktime)  
 - **SARIMA Dashboard**: [GitHub Repository](https://github.com/gabri-al/sarima_dashboard/tree/main/assets)  
-- **Applied Time Series Forecasting in Python**: [GitHub Repository](https://github.com/marcopeix/AppliedTimeSeriesForecastingInPython)  
+- **Applied Time Series Forecasting in Python**: [GitHub Repository](https://github.com/marcopeix/AppliedTimeSeriesForecastingInPython) 
+- **Machine Learning for Stock Prediction**: [GitHub Repository](https://github.com/robertmartin8/MachineLearningStocks)  
+- **Hyperopt-Sklearn (Hyperparameter Optimization for Sklearn)**: [GitHub Repository](https://github.com/hyperopt/hyperopt-sklearn)  
+- **Train Generator (Generate ML Training Scripts)**: [GitHub Repository](https://github.com/jrieke/traingenerator)   
+- **Auto-Sklearn (Automated ML for Sklearn)**: [GitHub Repository](https://github.com/automl/auto-sklearn)  
 
 ## 🔧 AI for Predictive Analytics  
 - **AI for Predictive Maintenance**: [GitHub Repository](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance)  
@@ -65,6 +69,9 @@
 - **130 Python Projects with Source Code**: [Read Article](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb) 
 - **Stirling PDF (Self-Hosted PDF Editing Tool)**: [GitHub Repository](https://github.com/Stirling-Tools/Stirling-PDF)  
 - **JARVIS on Messenger (AI Chatbot by Swap Agarwal)**: [GitHub Repository](https://github.com/swapagarwal/JARVIS-on-Messenger)  
+- **Jarvis AI (CodeWithHarry)**: [GitHub Repository](https://github.com/CodeWithHarry/JarvisAI-YouTube) 
+- **DataStream.io (Real-Time Data Processing - Examples)**: [GitHub Repository](https://github.com/MentatInnovations/datastream.io/tree/master/examples)  
+- **Python AI Assistant (Jarvis by ggeop)**: [GitHub Repository](https://github.com/ggeop/Python-ai-assistant/tree/develop/src/jarvis/jarvis)   
 
 
 ## 🖥️ Computer Vision & Image Processing
@@ -92,6 +99,8 @@
 - **YOLO (Multimedia Tech Lab Repository)**: [GitHub Repository](https://github.com/MultimediaTechLab/YOLO)  
 - **Computer Vision by Gaurav Singh**: [GitHub Repository](https://github.com/gauravsingh9356/Computer-Vision)  
 - **Deep Learning by Gaurav Singh**: [GitHub Repository](https://github.com/gauravsingh9356/DEEP_LEARNING)  
+- **PyTorch SSD (Single Shot MultiBox Detector Datasets & Implementation)**: [GitHub Repository](https://github.com/qfgaohao/pytorch-ssd/tree/master/vision/datasets)  
+- **Segmentation Models in PyTorch (By qubvel-org)**: [GitHub Repository](https://github.com/qubvel-org/segmentation_models.pytorch) 
 
 ## 🤖 Deep Learning & AI Education  
 - **MIT Deep Learning Course (6S191)**: [GitHub Repository](https://github.com/abusufyanvu/6S191_MIT_DeepLearning)  
@@ -110,6 +119,9 @@
 - **Python Tutorials**: [GitHub Repository](https://github.com/mGalarnyk/Python_Tutorials)  
 - **LeetCode Coding Challenges**: [LeetCode Explore](https://leetcode.com/explore/)
 - **Python in Hindi (YouTube Playlist)**: [Watch Here](https://www.youtube.com/watch?v=pLFVStoNYCo&list=PLaHodugB5x-AexqLxb8pQixbeKEgO-9Sa)  
+- **The Ultimate Python Course (CodeWithHarry)**: [GitHub Repository](https://github.com/CodeWithHarry/The-Ultimate-Python-Course)  
+- **100 Days of Code (CodeWithHarry)**: [GitHub Repository](https://github.com/CodeWithHarry/100-days-of-code-youtube)  
+- **Git Tutorial Demo (CodeWithHarry)**: [GitHub Repository](https://github.com/CodeWithHarry/GitTutorialDemo)  
 
 ## 📚 Data Structures & Algorithms  
 - **DSA Using Python (CampusX Repository)**: [GitHub Repository](https://github.com/campusx-official/dsa-using-python) 
@@ -152,6 +164,7 @@
 
 ## 🔧 DevOps & Infrastructure  
 - **Manof (Distributed Task Execution Framework)**: [GitHub Repository](https://github.com/v3io/manof)  
+- **AWS Machine Learning University (Accelerated NLP Notebooks)**: [GitHub Repository](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp/tree/main/notebooks) 
 
 ## 📋 Productivity & Project Management  
 - **Notion (Note-Taking & Organization Tool)**: [Visit Website](https://www.notion.com/)  
