@@ -27,6 +27,8 @@
 - **Awesome AI (Curated List of AI Resources)**: [Visit Project](https://project-awesome.org/owainlewis/awesome-artificial-intelligence?s=08) 
 - **God-Level AI (Python & AI Learning Resources)**: [GitHub Repository](https://github.com/hemansnation/god-level-ai/tree/master/01_Python)  
 - **In-Depth Parameter Tuning for Random Forest**: [Read Article](https://medium.com/all-things-ai/in-depth-parameter-tuning-for-random-forest-d67bb7e920d) 
+- **PyTorch Autograd (Automatic Differentiation)**: [GitHub Repository](https://github.com/patrickloeber/pytorchTutorial/blob/master/03_autograd.py)  
+
 
 ## ⏳ Time Series  
 - **Large Time-Series Model**: [GitHub Repository](https://github.com/thuml/Large-Time-Series-Model)  
@@ -38,6 +40,9 @@
 - **Hyperopt-Sklearn (Hyperparameter Optimization for Sklearn)**: [GitHub Repository](https://github.com/hyperopt/hyperopt-sklearn)  
 - **Train Generator (Generate ML Training Scripts)**: [GitHub Repository](https://github.com/jrieke/traingenerator)   
 - **Auto-Sklearn (Automated ML for Sklearn)**: [GitHub Repository](https://github.com/automl/auto-sklearn)  
+- **ML from Scratch - SVM Implementation**: [GitHub Repository](https://github.com/patrickloeber/MLfromscratch/blob/master/mlfromscratch/svm.py)  
+- **OpenAI in a Day (Movie Classification - Unsupervised Learning)**: [GitHub Repository](https://github.com/anderl80/openai-in-a-day/blob/main/03%20Use%20Case%20Labs/04_movie_classification_unsupervised.ipynb)  
+
 
 ## 🔧 AI for Predictive Analytics  
 - **AI for Predictive Maintenance**: [GitHub Repository](https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance)  
@@ -101,6 +106,11 @@
 - **Deep Learning by Gaurav Singh**: [GitHub Repository](https://github.com/gauravsingh9356/DEEP_LEARNING)  
 - **PyTorch SSD (Single Shot MultiBox Detector Datasets & Implementation)**: [GitHub Repository](https://github.com/qfgaohao/pytorch-ssd/tree/master/vision/datasets)  
 - **Segmentation Models in PyTorch (By qubvel-org)**: [GitHub Repository](https://github.com/qubvel-org/segmentation_models.pytorch) 
+- **SSD Object Detection Demo**: [GitHub Repository](https://github.com/xiaohu2015/DeepLearning_tutorials/tree/master/ObjectDetections/SSD/demo)  
+- **Semantic Shapes (3D Shape Recognition)**: [GitHub Repository](https://github.com/seth814/Semantic-Shapes)  
+- **Brain Tissue Segmentation (NeuroNet)**: [GitHub Repository](https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet)  
+- **UNet Segmentation Metrics (Napari Notebook)**: [GitHub Repository](https://github.com/lowe-lab-ucl/unet_segmentation_metrics/blob/master/notebooks/unet_segmentation_metrics-napari.ipynb)  
+- **Netron (Neural Network Model Visualization Tool)**: [GitHub Repository](https://github.com/lutzroeder/netron?tab=readme-ov-file)  
 
 ## 🤖 Deep Learning & AI Education  
 - **MIT Deep Learning Course (6S191)**: [GitHub Repository](https://github.com/abusufyanvu/6S191_MIT_DeepLearning)  
@@ -122,6 +132,8 @@
 - **The Ultimate Python Course (CodeWithHarry)**: [GitHub Repository](https://github.com/CodeWithHarry/The-Ultimate-Python-Course)  
 - **100 Days of Code (CodeWithHarry)**: [GitHub Repository](https://github.com/CodeWithHarry/100-days-of-code-youtube)  
 - **Git Tutorial Demo (CodeWithHarry)**: [GitHub Repository](https://github.com/CodeWithHarry/GitTutorialDemo)  
+- **Python Fun (Interesting Small Python Projects)**: [GitHub Repository](https://github.com/patrickloeber/python-fun)  
+- **Advanced Python Notebooks (Lists, Dictionaries, etc.)**: [GitHub Repository](https://github.com/patrickloeber/python-engineer-notebooks/blob/master/advanced-python/01-Lists.ipynb)  
 
 ## 📚 Data Structures & Algorithms  
 - **DSA Using Python (CampusX Repository)**: [GitHub Repository](https://github.com/campusx-official/dsa-using-python) 
