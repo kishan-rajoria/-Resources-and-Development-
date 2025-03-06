@@ -15,7 +15,10 @@
 - **Hotshot (AI-powered Training & Performance Platform)**: [Hotshot](https://hotshot.co/)  
 - **Runway ML (AI-powered Video Editing & Generation)**: [Runway ML](https://app.runwayml.com/video-tools)  
 - **Luma Dream Machine (AI Video Generation)**: [Dream Machine](https://dream-machine.lumalabs.ai/)  
-- **OpenAI Sora (AI Video Model Library)**: [Sora Library](https://sora.com/library)  
+- **OpenAI Sora (AI Video Model Library)**: [Sora Library](https://sora.com/library)   
+- **Pollo AI (AI Video Generator)**: [Pollo AI](https://pollo.ai/ai-video-generator) 
+### 🗣️ AI Speech & Emotion Recognition  
+- **Hume AI (Emotion AI & TTS)**: [Hume AI](https://www.hume.ai/?utm_source=linkedin_genAIworks&utm_campaign=tts_launch)  
 
 ## 📊 Data Science & Machine Learning  
 - **Industry Machine Learning Applications**: [GitHub Repository](https://github.com/firmai/industry-machine-learning)  
@@ -69,7 +72,7 @@
 - **DataChain (Iterative Data Management for ML)**: [GitHub Repository](https://github.com/iterative/datachain)  
 - **DeepSeek Janus Pro AI Primer**: [Website](https://aman.ai/primers/ai/deepseek-janus-pro/)  
 - **Pretrained Models for NLP (UER-py)**: [GitHub Repository](https://github.com/dbiir/UER-py/tree/master/models)  
-
+- **LM Studio**: [lmstudio.ai](https://lmstudio.ai/) – Run LLMs locally on your machine with an easy-to-use interface.  
 
 ## 🏡 Data analytics and Industrial use cases
 - **Real Estate GUI Application with Data Analysis**: [GitHub Repository](https://github.com/kevin-gandhi/Real-estate-GUI-application-with-Data-Analysis)  
