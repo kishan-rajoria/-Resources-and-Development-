@@ -12,6 +12,10 @@
 - **AISensy (WhatsApp Business API & Chatbot Solutions)**: [Visit Website](https://aisensy.com/)  
 - **HubSpot (CRM & Marketing Automation)**: [Visit Website](https://www.hubspot.com/)   
 - **Ray.so (Code Screenshot Generator)**: [Website](https://ray.so/)  
+- **Hotshot (AI-powered Training & Performance Platform)**: [Hotshot](https://hotshot.co/)  
+- **Runway ML (AI-powered Video Editing & Generation)**: [Runway ML](https://app.runwayml.com/video-tools)  
+- **Luma Dream Machine (AI Video Generation)**: [Dream Machine](https://dream-machine.lumalabs.ai/)  
+- **OpenAI Sora (AI Video Model Library)**: [Sora Library](https://sora.com/library)  
 
 ## 📊 Data Science & Machine Learning  
 - **Industry Machine Learning Applications**: [GitHub Repository](https://github.com/firmai/industry-machine-learning)  
