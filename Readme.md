@@ -11,6 +11,7 @@
 - **Tome (AI-Powered Presentation Tool)**: [Visit Website](https://tome.app/) 
 - **AISensy (WhatsApp Business API & Chatbot Solutions)**: [Visit Website](https://aisensy.com/)  
 - **HubSpot (CRM & Marketing Automation)**: [Visit Website](https://www.hubspot.com/)   
+- **Ray.so (Code Screenshot Generator)**: [Website](https://ray.so/)  
 
 ## 📊 Data Science & Machine Learning  
 - **Industry Machine Learning Applications**: [GitHub Repository](https://github.com/firmai/industry-machine-learning)  
@@ -42,6 +43,7 @@
 - **Auto-Sklearn (Automated ML for Sklearn)**: [GitHub Repository](https://github.com/automl/auto-sklearn)  
 - **ML from Scratch - SVM Implementation**: [GitHub Repository](https://github.com/patrickloeber/MLfromscratch/blob/master/mlfromscratch/svm.py)  
 - **OpenAI in a Day (Movie Classification - Unsupervised Learning)**: [GitHub Repository](https://github.com/anderl80/openai-in-a-day/blob/main/03%20Use%20Case%20Labs/04_movie_classification_unsupervised.ipynb)  
+- **Pandas-AI (AI-powered Pandas DataFrame extension)**: [GitHub Repository](https://github.com/Sinaptik-AI/pandas-ai)  
 
 
 ## 🔧 AI for Predictive Analytics  
@@ -61,6 +63,8 @@
 - **EleutherAI Pythia (Large-Scale Language Model)**: [GitHub Repository](https://github.com/EleutherAI/pythia) 
 - **LLMentalist (Deep Dives into AI & Large Language Models)**: [Visit Website](https://softwarecrisis.dev/letters/llmentalist/)  
 - **DataChain (Iterative Data Management for ML)**: [GitHub Repository](https://github.com/iterative/datachain)  
+- **DeepSeek Janus Pro AI Primer**: [Website](https://aman.ai/primers/ai/deepseek-janus-pro/)  
+- **Pretrained Models for NLP (UER-py)**: [GitHub Repository](https://github.com/dbiir/UER-py/tree/master/models)  
 
 
 ## 🏡 Data analytics and Industrial use cases
@@ -71,13 +75,15 @@
 - **Invoice Generator (Tkinter & DocxTpl)**: [GitHub Repository](https://github.com/codefirstio/invoice-generator-tkinter-and-doxtpl?tab=readme-ov-file)  
 - **Real Estate GUI Application with Data Analysis**: [GitHub Repository](https://github.com/kevin-gandhi/Real-estate-GUI-application-with-Data-Analysis)
 - **MicroHMS (Microcontroller-Based Hospital Management System)**: [GitHub Repository](https://github.com/carteakey/microhms/blob/main/screenshots/homepage.png)  
-- **130 Python Projects with Source Code**: [Read Article](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb) 
 - **Stirling PDF (Self-Hosted PDF Editing Tool)**: [GitHub Repository](https://github.com/Stirling-Tools/Stirling-PDF)  
 - **JARVIS on Messenger (AI Chatbot by Swap Agarwal)**: [GitHub Repository](https://github.com/swapagarwal/JARVIS-on-Messenger)  
 - **Jarvis AI (CodeWithHarry)**: [GitHub Repository](https://github.com/CodeWithHarry/JarvisAI-YouTube) 
 - **DataStream.io (Real-Time Data Processing - Examples)**: [GitHub Repository](https://github.com/MentatInnovations/datastream.io/tree/master/examples)  
 - **Python AI Assistant (Jarvis by ggeop)**: [GitHub Repository](https://github.com/ggeop/Python-ai-assistant/tree/develop/src/jarvis/jarvis)   
-
+- **PPT Generator (Automate PowerPoint Creation with Python)**: [GitHub Repository](https://github.com/bolecodex/PPTGenerator)  
+- **Voice Cloning-based PPT Maker**: [GitHub Repository](https://github.com/muvazima/voice-cloned-ppt-maker)  
+- **Voice Cloning Implementation**: [GitHub Repository](https://github.com/muvazima/Voice-cloning)  
+- **Python PowerPoint Template (Automated PPT Generation)**: [GitHub Repository](https://github.com/iguridi/ppt/blob/master/app/ppt_templates/plantilla%20python.pptx) 
 
 ## 🖥️ Computer Vision & Image Processing
 - **Learn OpenCV**: [GitHub Repository](https://github.com/spmallick/learnopencv)  
@@ -111,10 +117,22 @@
 - **Brain Tissue Segmentation (NeuroNet)**: [GitHub Repository](https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet)  
 - **UNet Segmentation Metrics (Napari Notebook)**: [GitHub Repository](https://github.com/lowe-lab-ucl/unet_segmentation_metrics/blob/master/notebooks/unet_segmentation_metrics-napari.ipynb)  
 - **Netron (Neural Network Model Visualization Tool)**: [GitHub Repository](https://github.com/lutzroeder/netron?tab=readme-ov-file)  
+- **TensorFlow Object Detection API Tutorial**: [Watch on YouTube](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)  
+- **Deep Learning for Computer Vision Playlist**: [Watch on YouTube](https://www.youtube.com/watch?v=4Pi424VJgcE&list=PLxNPSjHT5qvscDTMaIAY9boOOXAJAS7y4)  
+- **Introduction to Deep Learning (Beginner Friendly)**: [Watch on YouTube](https://www.youtube.com/watch?v=GUbWsXU1mac)  
+- **YOLOv7 with Triton Inference Server Deployment**: [GitHub Repository](https://github.com/WongKinYiu/yolov7/tree/main/deploy/triton-inference-server)  
+- **Object Detection Metrics (Evaluation Toolkit)**: [GitHub Repository](https://github.com/rafaelpadilla/Object-Detection-Metrics)  
+- **TensorFlow Object Detection API - Train Multiple Objects on Windows**: [GitHub Repository](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)  
+- **PyTorch SSDLite Model Implementation**: [GitHub Repository](https://github.com/pytorch/vision/blob/main/torchvision/models/detection/ssdlite.py)  
+- **OpenCV Zoo (Pretrained Models for Vision Tasks)**: [GitHub Repository](https://github.com/opencv/opencv_zoo)  
+- **Ultralytics YOLOv8 Tutorial (Colab Notebook)**: [Google Colab](https://colab.research.google.com/github/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb#scrollTo=wbvMlHd_QwMG)  
+- **StrongSORT (Advanced Object Tracking)**: [GitHub Repository](https://github.com/dyhBUPT/StrongSORT)  
 
 ## 🤖 Deep Learning & AI Education  
 - **MIT Deep Learning Course (6S191)**: [GitHub Repository](https://github.com/abusufyanvu/6S191_MIT_DeepLearning)  
 - **MIT Deep Learning Labs Setup**: [GitHub Repository](https://github.com/abusufyanvu/6S191_MIT_DeepLearning/blob/main/6S191_MIT_DeepLearning/introtodeeplearning-labs/setup.py)  
+- **ONNX Model Visualization Tutorial**: [GitHub Repository](https://github.com/onnx/tutorials/blob/main/tutorials/VisualizingAModel.md)  
+- **ONNX Pretrained Models for Computer Vision**: [GitHub Repository](https://github.com/onnx/models/tree/main/Computer_Vision)  
 
 ## 🎨 Developer Tools  
 - **Ray.so**: [Create beautiful code snippets](https://ray.so/)  
@@ -134,6 +152,7 @@
 - **Git Tutorial Demo (CodeWithHarry)**: [GitHub Repository](https://github.com/CodeWithHarry/GitTutorialDemo)  
 - **Python Fun (Interesting Small Python Projects)**: [GitHub Repository](https://github.com/patrickloeber/python-fun)  
 - **Advanced Python Notebooks (Lists, Dictionaries, etc.)**: [GitHub Repository](https://github.com/patrickloeber/python-engineer-notebooks/blob/master/advanced-python/01-Lists.ipynb)  
+- **130 Python Projects with Source Code**: [Read Article](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb) 
 
 ## 📚 Data Structures & Algorithms  
 - **DSA Using Python (CampusX Repository)**: [GitHub Repository](https://github.com/campusx-official/dsa-using-python) 
@@ -177,6 +196,8 @@
 ## 🔧 DevOps & Infrastructure  
 - **Manof (Distributed Task Execution Framework)**: [GitHub Repository](https://github.com/v3io/manof)  
 - **AWS Machine Learning University (Accelerated NLP Notebooks)**: [GitHub Repository](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp/tree/main/notebooks) 
+- **Cloud Foundry (Open-source Cloud Platform)**: [Website](https://www.cloudfoundry.org/)  
+- **Node-RED (Low-code Programming for IoT & Workflow Automation)**: [Website](https://nodered.org/)  
 
 ## 📋 Productivity & Project Management  
 - **Notion (Note-Taking & Organization Tool)**: [Visit Website](https://www.notion.com/)  
