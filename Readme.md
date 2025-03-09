@@ -73,6 +73,10 @@
 - **DeepSeek Janus Pro AI Primer**: [Website](https://aman.ai/primers/ai/deepseek-janus-pro/)  
 - **Pretrained Models for NLP (UER-py)**: [GitHub Repository](https://github.com/dbiir/UER-py/tree/master/models)  
 - **LM Studio**: [lmstudio.ai](https://lmstudio.ai/) – Run LLMs locally on your machine with an easy-to-use interface.  
+- **Google NotebookLM** ([Website](https://notebooklm.google/)) – AI-powered research notebook.  
+- **Google Vids** ([Workspace](https://workspace.google.com/products/vids/)) – AI-assisted video editing.  
+- **Quadratic** ([Website](https://www.quadratichq.com/)) – AI-powered spreadsheet for data workflows.  
+14. **QuadraticHQ** ([Website](https://www.quadratichq.com/)) – AI-powered data and spreadsheet tool (you linked this twice, but still worth mentioning). 
 
 ## 🏡 Data analytics and Industrial use cases
 - **Real Estate GUI Application with Data Analysis**: [GitHub Repository](https://github.com/kevin-gandhi/Real-estate-GUI-application-with-Data-Analysis)  
@@ -134,6 +138,12 @@
 - **OpenCV Zoo (Pretrained Models for Vision Tasks)**: [GitHub Repository](https://github.com/opencv/opencv_zoo)  
 - **Ultralytics YOLOv8 Tutorial (Colab Notebook)**: [Google Colab](https://colab.research.google.com/github/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb#scrollTo=wbvMlHd_QwMG)  
 - **StrongSORT (Advanced Object Tracking)**: [GitHub Repository](https://github.com/dyhBUPT/StrongSORT)  
+- **LearnOpenCV** ([GitHub](https://github.com/spmallick/learnopencv)) – Tons of OpenCV tutorials and deep learning guides.  
+- **ControlNet** ([GitHub](https://github.com/lllyasviel/ControlNet)) – Advanced diffusion model control for Stable Diffusion.  
+- **Segment Anything** ([GitHub](https://github.com/facebookresearch/segment-anything)) – Meta's universal segmentation model.  
+- **Qualcomm AI Hub** ([Models](https://aihub.qualcomm.com/models)) – Optimized AI models for mobile and embedded devices. 
+- **AI Hub Models by Qualcomm** ([GitHub](https://github.com/quic/ai-hub-models/tree/main/qai_hub_models/models/whisper_base_en)) – Pre-trained AI models optimized for Qualcomm hardware.  
+- **Platform by HC Engineering** ([GitHub](https://github.com/hcengineering/platform?tab=readme-ov-file)) – AI-powered data and ML workflows.  
 
 ## 🤖 Deep Learning & AI Education  
 - **MIT Deep Learning Course (6S191)**: [GitHub Repository](https://github.com/abusufyanvu/6S191_MIT_DeepLearning)  
@@ -189,6 +199,10 @@
 - **Landing Page Inspiration for AI Products**: [LandingFolio](https://www.landingfolio.com/inspiration/landing-page/artificial-intelligence) 
 - **JoonWeb (Website Builder & Design Platform)**: [Visit Website](https://www.joonweb.com/) 
 - **Wappalyzer (Technology Profiler for Websites)**: [Visit Website](https://www.wappalyzer.com/)  
+- **LM MLC** ([LLM](https://llm.mlc.ai/)) – Run LLMs efficiently on edge devices.  
+- **Replit** ([Website](https://replit.com/)) – Browser-based coding IDE with AI assistance.  
+- **Cursor** ([Website](https://www.cursor.com/)) – AI-powered code editor for better productivity.  
+- **Sider.AI** ([Website](https://sider.ai/)) – AI assistant for coding, research, and workflows.  
 
 
 ## 🛒 E-Commerce & Business Applications  
